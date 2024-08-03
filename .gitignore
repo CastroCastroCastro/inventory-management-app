@@ -12,6 +12,10 @@ node_modules/
 .pnp
 .pnp.js
 
+node_modules
+.next
+.env.local
+
 # Build directories
 dist/
 build/
